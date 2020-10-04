@@ -1,0 +1,19 @@
+
+ .pet img{
+     width: 100%;
+     padding: 3%;
+     height: 60%;
+     
+ }
+.form-signin{
+    margin-top: 20%;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+iframe{
+    width: 100%;
+    height: auto;
+    
+}
